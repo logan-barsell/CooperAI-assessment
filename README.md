@@ -1,5 +1,5 @@
 # Welcome
-Welcome to the Cooper AI Tech Challenges
+👋 Welcome to the Cooper AI Tech Challenge! 🚀
 
 ## Prerequisites
 You need to following installed on your machine:
